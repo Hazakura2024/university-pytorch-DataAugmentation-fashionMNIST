@@ -1,0 +1,2 @@
+# university-pytorch-DataAugmentation-fashionMNIST
+pytorchで画像学習及びDataAugmentationによる改善を行った(研究室体験の授業での課題)
